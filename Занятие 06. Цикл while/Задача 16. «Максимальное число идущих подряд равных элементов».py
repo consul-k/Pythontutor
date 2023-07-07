@@ -20,3 +20,5 @@ while n != 0:
             count_len_max = count_len 
         count_len = 1
     previous = n
+        
+print(count_len_max)
